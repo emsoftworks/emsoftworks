@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Ruby**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/Smug246?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github]([https://github.com/Smug246?tab=repositories](https://github.com/emsoftworks?tab=repositories))
 
 <h3 align="left">Tech Stack</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
