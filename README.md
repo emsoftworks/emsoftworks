@@ -1,5 +1,4 @@
-<!-- https://github.com/Smug246/ -->
-<!-- LEAVE A STAR, IF YOU LIKE IT ! -->
+
 
 <h1 align="center">Hi 👋 I'm em</h1>
 <h3 align="center">I'm a fullstack developer from Canada</h3>
