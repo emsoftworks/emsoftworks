@@ -1,7 +1,8 @@
 
 
-<h1 align="center">Hi 👋 I'm em</h1>
+<h1 align="center">Hi I'm em</h1>
 <h3 align="center">I'm a fullstack developer from Canada</h3>
+<h3 align="center">I mostly make scripts for ROBLOX or modifications for other games</h3>
 
 
 - 🌱 I’m currently learning **Ruby**
