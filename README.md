@@ -5,7 +5,7 @@
 <h3 align="center">I mostly make scripts for ROBLOX or modifications for other games</h3>
 
 
-- 🌱 I’m currently learning **COW.**
+- 🐄 I’m currently learning **COW.**
 
 - Most of my projects are available at [Github]([](https://github.com/emsoftworks?tab=repositories))
 
